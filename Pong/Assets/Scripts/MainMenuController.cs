@@ -22,3 +22,5 @@ public class MainMenuController : MonoBehaviour
         SceneManager.LoadScene("Main Menu");
     }
 }
+
+//comment
