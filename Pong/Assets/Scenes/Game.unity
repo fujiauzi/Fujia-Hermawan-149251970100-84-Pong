@@ -1383,15 +1383,15 @@ GameObject:
   m_Component:
   - component: {fileID: 1473695542}
   - component: {fileID: 1473695544}
-  - component: {fileID: 1473695543}
   - component: {fileID: 1473695545}
+  - component: {fileID: 1473695543}
   m_Layer: 0
   m_Name: SpeedUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1473695542
 Transform:
   m_ObjectHideFlags: 0
